@@ -1,0 +1,5 @@
+https://www.typescriptlang.org/
+
+npm install typescript --save-dev
+npx tsc file_name.ts
+npx tsc --init
